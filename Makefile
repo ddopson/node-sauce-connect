@@ -8,7 +8,7 @@ install:
 
 build:
 	echo "building"
-	coffee -o lib/ -c src/
+	node_modules/.bin/coffee -o lib/ -c src/
 
 clean:
 	echo "cleaning"

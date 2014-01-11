@@ -6,7 +6,7 @@
   "description": "Node.js wrapper over the SauceLabs SauceConnect.jar program for establishing a secure tunnel for intranet testing",
   "main": "lib/sauce-connect.coffee",
   "dependencies": {
-    "install": "*"
+    "coffee-script": "*"
   },
   "devDependencies": {},
   "scripts": {
