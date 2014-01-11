@@ -1,4 +1,5 @@
 SAUCE_CONNECT_JAR = $(wildcard ext/*.jar)
+PATH := ./node_modules/.bin:${PATH}
 
 .PHONY: clean build install
 install:
