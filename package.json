@@ -12,6 +12,10 @@
     "env": "env",
     "install": "make install"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddopson/node-sauce-connect.git"
+  },
   "author": "Dave Dopson <ddopson@gmail.com>",
   "license": "WTFPL"
 }
