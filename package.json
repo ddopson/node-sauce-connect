@@ -1,5 +1,9 @@
 {
   "name": "sauce-connect",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ddopson/node-sauce-connect.git"
+  },
   "keywords": ["selenium", "selenese", "browser-automation", "sauce", "saucelabs", "sauce-labs"],
   "version": "0.1.1",
   "sauce-connect-url": "https://saucelabs.com/downloads/Sauce-Connect-latest.zip",
